@@ -4,14 +4,16 @@
 # Data Science Project: Customer Segmentation - Overview
 * Created a template for segmentation analysis
 * Dataset contains information about bank customers (this is training dataset provided by tutor in csv file)
-* Dataset were cleaned, scaled 
+* Dataset were cleaned, scaled and analysed
+* Unsupervised Machine Learning algorithms were applied like K-Means, 'Elbow Method', Principal Component Analysis (PCA)
+* Created Autoencoder based on two two artificial neural networks
 
 
 ### Motivation
 Marketing is a filar for growth and sustainability of any business. Knowlege about markets and customers is crucial for any strategic decisions, which can create a strong brand and increase sales.
 Segmentation is one the most important application of unsupervised learning. Using clustering techniques, companies can identify groups of customers allowing them to understand customers behaviour and recognize a target of marketing capain. In this machine learning project, I applied K-Means clustering, which is the essential algorithm for clustering of unlabeled dataset. Then performed Principal Component Analysis for dimentions recuction. Finally, as a comparisson, I build  Autoencoder based on Arfificial Neuronal Networks in order to reduce features and then perform again KMeans clustering and PCA.
 
-#### Keywords: **K-Means**, **'Elbow Method'**, **Principal Component Analysis (PCA)**, **Autoencoder**
+#### Keywords: K-Means, 'Elbow Method', Principal Component Analysis (PCA), Autoencoder
 
 ## Outline
 
