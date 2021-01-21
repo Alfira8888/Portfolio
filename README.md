@@ -1,5 +1,5 @@
 # Portfolio
-
+### Żaneta Nogacz  
 
 # Data Science Project: Customer Segmentation - Overview 
 * Created a template for segmentation analysis 
