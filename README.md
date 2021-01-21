@@ -1,4 +1,4 @@
-# Zaneta_Nogacz_Portfolio
+# Portfolio
 
 
 # Data Science Project: Customer Segmentation - Overview 
