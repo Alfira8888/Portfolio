@@ -1,11 +1,10 @@
 
 # [Data Science Project: Customer Segmentation - Overview](https://github.com/Alfira8888/Customer_segmentation)
-* Created a template for segmentation analysis 
+
 * Dataset contains marketing information about bank customers (this is training dataset provided by tutor in csv file) 
 * Dataset were cleaned, scaled and analysed
 * Applied unsupervised machine learning algorithms: K-Means with help of ‘Elbow Method’ and Principal Component Analysis (PCA)
 * Created and optimized autoencoder based on two artificial neural networks 
-* Created report with results in form of PDF file 
 
 
 ### Motivation
